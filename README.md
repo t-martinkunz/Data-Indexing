@@ -1,4 +1,26 @@
-#### <ins>Results for GPT-4:</ins>
+# <ins>Data Indexing Flow</ins>
+
+### General Information
+This project evaluates the latest GPT models and different indexing methods for technical PDFs in order to determine the most efficient solution and configuration. The focus here is primarily on tables within these PDFs.
+For this project mainly [Azure AIs](https://azure.microsoft.com/de-de/products/ai-studio/) promptflow was used.
+
+### Project Structure
+- `./example_pdfs`: Contains freely accessible, technical PDFs that were used for the evaluation.
+- `./results`: Contains the results of `data-indexing.ipynb`.
+- `data-indexing.ipynb`: Jupyter notebook for data indexing and initial analyses.
+- `flow.dag.yaml`: Defines the workflow and the various nodes of the RAG flow within promptflow.
+- `pdf_indexing.py`: Python script for indexing and extracting data from PDF documents within promptflow.
+- `requirements.txt`: List of the required Python packages.
+<br>
+The resulting workflow within promptflow has the following structure:
+![Workflow in promptflow](pictures/promptflow.png)
+<br>
+Make sure that all .env variables are set correctly (both in a separate `credentials.env` and within the `flow.dag.yaml` and the `pdf_indexing.py`)
+
+### Results
+The results of this project show which GPT model and which index method deliver the best results. The results are listed below. The individual configurations were each run 5 times and the mean value and standard deviation of the configuration were calculated.
+
+##### Results for GPT-4:
 <table>
   <tr>
     <th></th>
@@ -57,7 +79,7 @@
 <br>
 
 
-#### <ins>Results for GPT-4o:</ins>
+##### Results for GPT-4o:
 <table>
   <tr>
     <th></th>
