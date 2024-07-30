@@ -1,0 +1,12 @@
+{"question": "Welche Schrauben werden zur Befestigung der Bodenabdeckung verwendet?", "ground_truth": "M2x3 T5", "component": "Bodenabdeckung", "attachment": "Handballenstützen-Baugruppe", "quantity": 10}
+{"question": "Wie viele Schrauben M2x8 werden für das Systememblem benötigt?", "ground_truth": "2", "component": "Systememblem", "attachment": "Handballenstützen-Baugruppe", "screw_type": "M2x8"}
+{"question": "Welche Schrauben werden für die Befestigung des Akkus (halbe Baulänge) verwendet?", "ground_truth": "M2x4", "component": "Akku (halbe Baulänge)", "attachment": "Handballenstützen-Baugruppe", "quantity": 4}
+{"question": "Wie viele Schrauben M2x4 sind für den Akku (volle Baulänge) erforderlich?", "ground_truth": "7", "component": "Akku (volle Baulänge)", "attachment": "Handballenstützen-Baugruppe", "screw_type": "M2x4"}
+{"question": "Welche Schrauben werden für das Laufwerksgehäuse verwendet?", "ground_truth": "M2x4", "component": "Laufwerksgehäuse", "attachment": "Festplattenbaugruppe", "quantity": 4}
+{"question": "Welche Schrauben werden zur Befestigung des SSD-Laufwerks (halbe Baulänge) an der Systemplatine benötigt?", "ground_truth": "M2x3", "component": "SSD-Laufwerk (halbe Baulänge)", "attachment": "Systemplatine", "quantity": 1}
+{"question": "Welche Schrauben sind für die SSD-Laufwerkshalterung erforderlich?", "ground_truth": "M2x2", "component": "SSD-Laufwerk", "attachment": "SSD-Laufwerkshalterung", "quantity": 1}
+{"question": "Wie viele Schrauben M2x3 werden für das SSD-Laufwerk (volle Baulänge) verwendet?", "ground_truth": "1", "component": "SSD-Laufwerk (volle Baulänge)", "attachment": "Systemplatine", "screw_type": "M2x3"}
+{"question": "Welche Schrauben werden zur Befestigung des Lautsprechers verwendet?", "ground_truth": "M2x2", "component": "Lautsprecher", "attachment": "Handballenstützen-Baugruppe", "quantity": 4}
+{"question": "Wie viele Schrauben M2x4 sind für den Lüfter auf der Systemplatine notwendig?", "ground_truth": "4", "component": "Lüfter", "attachment": "Systemplatine", "screw_type": "M2x4"}
+{"question": "Welche Schrauben werden für die Kühlkörperbaugruppe an der Systemplatine benötigt?", "ground_truth": "M2x3", "component": "Kühlkörperbaugruppe", "attachment": "Systemplatine", "quantity": [5, 4]}
+{"question": "Wie viele Schrauben M2x2 sind für die Bildschirmkabelhalterung erforderlich?", "ground_truth": "1", "component": "Bildschirmkabelhalterung", "attachment": "Systemplatine", "screw_type": "M2x2"}

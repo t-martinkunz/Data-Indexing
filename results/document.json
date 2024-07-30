@@ -1,0 +1,2603 @@
+{
+    "text": [
+        "bzw. zu verbiegen. Stellen Sie beim Anschließen von Kabeln sicher, dass die Anschlüsse korrekt orientiert und",
+        "ausgerichtet sind.",
+        "VORSICHT: Drücken Sie auf im Medienkartenlesegerät installierte Karten, um sie auszuwerfen.",
+        "Empfohlene Werkzeuge",
+        "Für die in diesem Dokument beschriebenen Arbeitsschritte können die folgenden Werkzeuge erforderlich sein:",
+        "· Kreuzschlitzschraubenzieher Nr. 0",
+        "· Kreuzschlitzschraubenzieher Nr. 1",
+        "· Torxschraubenzieher Nr. 5 (T5)",
+        "· Kunststoffstift",
+        "Schraubenliste",
+        "Die folgende Tabelle enthält die Liste der Schrauben, die zur Befestigung verschiedener Komponenten mit dem Computer verwendet",
+        "werden.",
+        "Tabelle 1. Schraubenliste",
+        "Komponente",
+        "Zur Befestigung von",
+        "Schraubentyp",
+        "Menge",
+        "Abbildung Schraube",
+        "Bodenabdeckung",
+        "Handballenstützen-",
+        "Baugruppe",
+        "M2x3 T5",
+        "10",
+        "Systememblem",
+        "Handballenstützen-",
+        "Baugruppe",
+        "M2×8",
+        "2",
+        "Akku (halbe Baulänge)",
+        "Handballenstützen-",
+        "Baugruppe",
+        "M2×4",
+        "4",
+        "Akku (volle Baulänge)",
+        "Handballenstützen-",
+        "Baugruppe",
+        "M2×4",
+        "7",
+        "Laufwerksgehäuse",
+        "Festplattenbaugruppe",
+        "M2×4",
+        "4",
+        "SSD-Laufwerk (halbe",
+        "Baulänge).",
+        "Systemplatine",
+        "M2×3",
+        "1",
+        "SSD-Laufwerk",
+        "SSD-Laufwerkshalterung",
+        "M2×2",
+        "1",
+        "SSD-Laufwerk (volle",
+        "Baulänge)",
+        "Systemplatine",
+        "M2×3",
+        "1",
+        "Lautsprecher",
+        "Handballenstützen-",
+        "Baugruppe",
+        "M2×2",
+        "4",
+        "Lüfter",
+        "Systemplatine",
+        "M2×4",
+        "4",
+        "Kühlkörperbaugruppe",
+        "Systemplatine",
+        "M2×3",
+        "5, 4",
+        "Bildschirmkabelhalterung",
+        "Systemplatine",
+        "M2×2",
+        "1",
+        "1",
+        "Vor der Arbeit an Komponenten im Innern des Computers",
+        "9"
+    ],
+    "structures": [
+        {
+            "page_number": 1,
+            "width": 8.2639,
+            "height": 11.6806,
+            "unit": "inch",
+            "lines": [
+                {
+                    "content": "bzw. zu verbiegen. Stellen Sie beim Anschließen von Kabeln sicher, dass die Anschlüsse korrekt orientiert und",
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 109
+                        }
+                    ]
+                },
+                {
+                    "content": "ausgerichtet sind.",
+                    "spans": [
+                        {
+                            "offset": 110,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "VORSICHT: Drücken Sie auf im Medienkartenlesegerät installierte Karten, um sie auszuwerfen.",
+                    "spans": [
+                        {
+                            "offset": 140,
+                            "length": 91
+                        }
+                    ]
+                },
+                {
+                    "content": "Empfohlene Werkzeuge",
+                    "spans": [
+                        {
+                            "offset": 232,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "Für die in diesem Dokument beschriebenen Arbeitsschritte können die folgenden Werkzeuge erforderlich sein:",
+                    "spans": [
+                        {
+                            "offset": 253,
+                            "length": 106
+                        }
+                    ]
+                },
+                {
+                    "content": "· Kreuzschlitzschraubenzieher Nr. 0",
+                    "spans": [
+                        {
+                            "offset": 360,
+                            "length": 35
+                        }
+                    ]
+                },
+                {
+                    "content": "· Kreuzschlitzschraubenzieher Nr. 1",
+                    "spans": [
+                        {
+                            "offset": 396,
+                            "length": 35
+                        }
+                    ]
+                },
+                {
+                    "content": "· Torxschraubenzieher Nr. 5 (T5)",
+                    "spans": [
+                        {
+                            "offset": 432,
+                            "length": 32
+                        }
+                    ]
+                },
+                {
+                    "content": "· Kunststoffstift",
+                    "spans": [
+                        {
+                            "offset": 465,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "Schraubenliste",
+                    "spans": [
+                        {
+                            "offset": 483,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "Die folgende Tabelle enthält die Liste der Schrauben, die zur Befestigung verschiedener Komponenten mit dem Computer verwendet",
+                    "spans": [
+                        {
+                            "offset": 498,
+                            "length": 126
+                        }
+                    ]
+                },
+                {
+                    "content": "werden.",
+                    "spans": [
+                        {
+                            "offset": 625,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Tabelle 1. Schraubenliste",
+                    "spans": [
+                        {
+                            "offset": 633,
+                            "length": 25
+                        }
+                    ]
+                },
+                {
+                    "content": "Komponente",
+                    "spans": [
+                        {
+                            "offset": 659,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "Zur Befestigung von",
+                    "spans": [
+                        {
+                            "offset": 670,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "Schraubentyp",
+                    "spans": [
+                        {
+                            "offset": 690,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "Menge",
+                    "spans": [
+                        {
+                            "offset": 703,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Abbildung Schraube",
+                    "spans": [
+                        {
+                            "offset": 709,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "Bodenabdeckung",
+                    "spans": [
+                        {
+                            "offset": 728,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "Handballenstützen-",
+                    "spans": [
+                        {
+                            "offset": 743,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "Baugruppe",
+                    "spans": [
+                        {
+                            "offset": 762,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "M2x3 T5",
+                    "spans": [
+                        {
+                            "offset": 772,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "10",
+                    "spans": [
+                        {
+                            "offset": 780,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "content": "Systememblem",
+                    "spans": [
+                        {
+                            "offset": 783,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "Handballenstützen-",
+                    "spans": [
+                        {
+                            "offset": 796,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "Baugruppe",
+                    "spans": [
+                        {
+                            "offset": 815,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "M2×8",
+                    "spans": [
+                        {
+                            "offset": 825,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "2",
+                    "spans": [
+                        {
+                            "offset": 830,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Akku (halbe Baulänge)",
+                    "spans": [
+                        {
+                            "offset": 832,
+                            "length": 21
+                        }
+                    ]
+                },
+                {
+                    "content": "Handballenstützen-",
+                    "spans": [
+                        {
+                            "offset": 854,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "Baugruppe",
+                    "spans": [
+                        {
+                            "offset": 873,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "M2×4",
+                    "spans": [
+                        {
+                            "offset": 883,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "4",
+                    "spans": [
+                        {
+                            "offset": 888,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Akku (volle Baulänge)",
+                    "spans": [
+                        {
+                            "offset": 890,
+                            "length": 21
+                        }
+                    ]
+                },
+                {
+                    "content": "Handballenstützen-",
+                    "spans": [
+                        {
+                            "offset": 912,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "Baugruppe",
+                    "spans": [
+                        {
+                            "offset": 931,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "M2×4",
+                    "spans": [
+                        {
+                            "offset": 941,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "7",
+                    "spans": [
+                        {
+                            "offset": 946,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Laufwerksgehäuse",
+                    "spans": [
+                        {
+                            "offset": 948,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "Festplattenbaugruppe",
+                    "spans": [
+                        {
+                            "offset": 965,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "M2×4",
+                    "spans": [
+                        {
+                            "offset": 986,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "4",
+                    "spans": [
+                        {
+                            "offset": 991,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "SSD-Laufwerk (halbe",
+                    "spans": [
+                        {
+                            "offset": 993,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "Baulänge).",
+                    "spans": [
+                        {
+                            "offset": 1013,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "Systemplatine",
+                    "spans": [
+                        {
+                            "offset": 1024,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "M2×3",
+                    "spans": [
+                        {
+                            "offset": 1038,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "1",
+                    "spans": [
+                        {
+                            "offset": 1043,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "SSD-Laufwerk",
+                    "spans": [
+                        {
+                            "offset": 1045,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "SSD-Laufwerkshalterung",
+                    "spans": [
+                        {
+                            "offset": 1058,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "M2×2",
+                    "spans": [
+                        {
+                            "offset": 1081,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "1",
+                    "spans": [
+                        {
+                            "offset": 1086,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "SSD-Laufwerk (volle",
+                    "spans": [
+                        {
+                            "offset": 1088,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "Baulänge)",
+                    "spans": [
+                        {
+                            "offset": 1108,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "Systemplatine",
+                    "spans": [
+                        {
+                            "offset": 1118,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "M2×3",
+                    "spans": [
+                        {
+                            "offset": 1132,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "1",
+                    "spans": [
+                        {
+                            "offset": 1137,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Lautsprecher",
+                    "spans": [
+                        {
+                            "offset": 1139,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "Handballenstützen-",
+                    "spans": [
+                        {
+                            "offset": 1152,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "Baugruppe",
+                    "spans": [
+                        {
+                            "offset": 1171,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "M2×2",
+                    "spans": [
+                        {
+                            "offset": 1181,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "4",
+                    "spans": [
+                        {
+                            "offset": 1186,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Lüfter",
+                    "spans": [
+                        {
+                            "offset": 1188,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Systemplatine",
+                    "spans": [
+                        {
+                            "offset": 1195,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "M2×4",
+                    "spans": [
+                        {
+                            "offset": 1209,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "4",
+                    "spans": [
+                        {
+                            "offset": 1214,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Kühlkörperbaugruppe",
+                    "spans": [
+                        {
+                            "offset": 1216,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "Systemplatine",
+                    "spans": [
+                        {
+                            "offset": 1236,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "M2×3",
+                    "spans": [
+                        {
+                            "offset": 1250,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "5, 4",
+                    "spans": [
+                        {
+                            "offset": 1255,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Bildschirmkabelhalterung",
+                    "spans": [
+                        {
+                            "offset": 1260,
+                            "length": 24
+                        }
+                    ]
+                },
+                {
+                    "content": "Systemplatine",
+                    "spans": [
+                        {
+                            "offset": 1285,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "M2×2",
+                    "spans": [
+                        {
+                            "offset": 1299,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "1",
+                    "spans": [
+                        {
+                            "offset": 1304,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "1",
+                    "spans": [
+                        {
+                            "offset": 1306,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Vor der Arbeit an Komponenten im Innern des Computers",
+                    "spans": [
+                        {
+                            "offset": 1308,
+                            "length": 53
+                        }
+                    ]
+                },
+                {
+                    "content": "9",
+                    "spans": [
+                        {
+                            "offset": 1362,
+                            "length": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "tables": [
+        {
+            "table_index": 0,
+            "row_count": 13,
+            "column_count": 5,
+            "cells": [
+                {
+                    "row_index": 0,
+                    "column_index": 0,
+                    "content": "Komponente",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.5043,
+                                    4.5279
+                                ],
+                                [
+                                    1.9508,
+                                    4.5279
+                                ],
+                                [
+                                    1.9583,
+                                    4.7516
+                                ],
+                                [
+                                    0.5043,
+                                    4.7516
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 0,
+                    "column_index": 1,
+                    "content": "Zur Befestigung von",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9508,
+                                    4.5279
+                                ],
+                                [
+                                    3.3974,
+                                    4.5279
+                                ],
+                                [
+                                    3.3974,
+                                    4.7516
+                                ],
+                                [
+                                    1.9583,
+                                    4.7516
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 0,
+                    "column_index": 2,
+                    "content": "Schraubentyp",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3974,
+                                    4.5279
+                                ],
+                                [
+                                    4.8588,
+                                    4.5279
+                                ],
+                                [
+                                    4.8588,
+                                    4.7516
+                                ],
+                                [
+                                    3.3974,
+                                    4.7516
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 0,
+                    "column_index": 3,
+                    "content": "Menge",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    4.5279
+                                ],
+                                [
+                                    6.2829,
+                                    4.5279
+                                ],
+                                [
+                                    6.2829,
+                                    4.7516
+                                ],
+                                [
+                                    4.8588,
+                                    4.7516
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 0,
+                    "column_index": 4,
+                    "content": "Abbildung Schraube",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2829,
+                                    4.5279
+                                ],
+                                [
+                                    7.7295,
+                                    4.5279
+                                ],
+                                [
+                                    7.7295,
+                                    4.7516
+                                ],
+                                [
+                                    6.2829,
+                                    4.7516
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 1,
+                    "column_index": 0,
+                    "content": "Bodenabdeckung",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.5043,
+                                    4.7516
+                                ],
+                                [
+                                    1.9583,
+                                    4.7516
+                                ],
+                                [
+                                    1.9583,
+                                    5.2139
+                                ],
+                                [
+                                    0.4969,
+                                    5.2139
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 1,
+                    "column_index": 1,
+                    "content": "Handballenstützen- Baugruppe",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9583,
+                                    4.7516
+                                ],
+                                [
+                                    3.3974,
+                                    4.7516
+                                ],
+                                [
+                                    3.3899,
+                                    5.2139
+                                ],
+                                [
+                                    1.9583,
+                                    5.2139
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 1,
+                    "column_index": 2,
+                    "content": "M2x3 T5",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3974,
+                                    4.7516
+                                ],
+                                [
+                                    4.8588,
+                                    4.7516
+                                ],
+                                [
+                                    4.8588,
+                                    5.2139
+                                ],
+                                [
+                                    3.3899,
+                                    5.2139
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 1,
+                    "column_index": 3,
+                    "content": "10",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    4.7516
+                                ],
+                                [
+                                    6.2829,
+                                    4.7516
+                                ],
+                                [
+                                    6.2829,
+                                    5.2139
+                                ],
+                                [
+                                    4.8588,
+                                    5.2139
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 1,
+                    "column_index": 4,
+                    "content": "",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2829,
+                                    4.7516
+                                ],
+                                [
+                                    7.7295,
+                                    4.7516
+                                ],
+                                [
+                                    7.7295,
+                                    5.2139
+                                ],
+                                [
+                                    6.2829,
+                                    5.2139
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 2,
+                    "column_index": 0,
+                    "content": "Systememblem",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.4969,
+                                    5.2139
+                                ],
+                                [
+                                    1.9583,
+                                    5.2139
+                                ],
+                                [
+                                    1.9583,
+                                    6.0192
+                                ],
+                                [
+                                    0.4969,
+                                    6.0192
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 2,
+                    "column_index": 1,
+                    "content": "Handballenstützen- Baugruppe",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9583,
+                                    5.2139
+                                ],
+                                [
+                                    3.3899,
+                                    5.2139
+                                ],
+                                [
+                                    3.3899,
+                                    6.0192
+                                ],
+                                [
+                                    1.9583,
+                                    6.0192
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 2,
+                    "column_index": 2,
+                    "content": "M2×8",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3899,
+                                    5.2139
+                                ],
+                                [
+                                    4.8588,
+                                    5.2139
+                                ],
+                                [
+                                    4.8588,
+                                    6.0192
+                                ],
+                                [
+                                    3.3899,
+                                    6.0192
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 2,
+                    "column_index": 3,
+                    "content": "2",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    5.2139
+                                ],
+                                [
+                                    6.2829,
+                                    5.2139
+                                ],
+                                [
+                                    6.2904,
+                                    6.0192
+                                ],
+                                [
+                                    4.8588,
+                                    6.0192
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 2,
+                    "column_index": 4,
+                    "content": "",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2829,
+                                    5.2139
+                                ],
+                                [
+                                    7.7295,
+                                    5.2139
+                                ],
+                                [
+                                    7.7295,
+                                    6.0192
+                                ],
+                                [
+                                    6.2904,
+                                    6.0192
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 3,
+                    "column_index": 0,
+                    "content": "Akku (halbe Baulänge)",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.4969,
+                                    6.0192
+                                ],
+                                [
+                                    1.9583,
+                                    6.0192
+                                ],
+                                [
+                                    1.9583,
+                                    6.489
+                                ],
+                                [
+                                    0.4969,
+                                    6.4741
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 3,
+                    "column_index": 1,
+                    "content": "Handballenstützen- Baugruppe",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9583,
+                                    6.0192
+                                ],
+                                [
+                                    3.3899,
+                                    6.0192
+                                ],
+                                [
+                                    3.3899,
+                                    6.489
+                                ],
+                                [
+                                    1.9583,
+                                    6.489
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 3,
+                    "column_index": 2,
+                    "content": "M2×4",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3899,
+                                    6.0192
+                                ],
+                                [
+                                    4.8588,
+                                    6.0192
+                                ],
+                                [
+                                    4.8588,
+                                    6.489
+                                ],
+                                [
+                                    3.3899,
+                                    6.489
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 3,
+                    "column_index": 3,
+                    "content": "4",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    6.0192
+                                ],
+                                [
+                                    6.2904,
+                                    6.0192
+                                ],
+                                [
+                                    6.2904,
+                                    6.489
+                                ],
+                                [
+                                    4.8588,
+                                    6.489
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 3,
+                    "column_index": 4,
+                    "content": "",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2904,
+                                    6.0192
+                                ],
+                                [
+                                    7.7295,
+                                    6.0192
+                                ],
+                                [
+                                    7.7295,
+                                    6.489
+                                ],
+                                [
+                                    6.2904,
+                                    6.489
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 4,
+                    "column_index": 0,
+                    "content": "Akku (volle Baulänge)",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.4969,
+                                    6.4741
+                                ],
+                                [
+                                    1.9583,
+                                    6.489
+                                ],
+                                [
+                                    1.9583,
+                                    6.9514
+                                ],
+                                [
+                                    0.4969,
+                                    6.9439
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 4,
+                    "column_index": 1,
+                    "content": "Handballenstützen- Baugruppe",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9583,
+                                    6.489
+                                ],
+                                [
+                                    3.3899,
+                                    6.489
+                                ],
+                                [
+                                    3.3899,
+                                    6.9514
+                                ],
+                                [
+                                    1.9583,
+                                    6.9514
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 4,
+                    "column_index": 2,
+                    "content": "M2×4",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3899,
+                                    6.489
+                                ],
+                                [
+                                    4.8588,
+                                    6.489
+                                ],
+                                [
+                                    4.8588,
+                                    6.9439
+                                ],
+                                [
+                                    3.3899,
+                                    6.9514
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 4,
+                    "column_index": 3,
+                    "content": "7",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    6.489
+                                ],
+                                [
+                                    6.2904,
+                                    6.489
+                                ],
+                                [
+                                    6.2904,
+                                    6.9514
+                                ],
+                                [
+                                    4.8588,
+                                    6.9439
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 4,
+                    "column_index": 4,
+                    "content": "",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2904,
+                                    6.489
+                                ],
+                                [
+                                    7.7295,
+                                    6.489
+                                ],
+                                [
+                                    7.7369,
+                                    6.9439
+                                ],
+                                [
+                                    6.2904,
+                                    6.9514
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 5,
+                    "column_index": 0,
+                    "content": "Laufwerksgehäuse",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.4969,
+                                    6.9439
+                                ],
+                                [
+                                    1.9583,
+                                    6.9514
+                                ],
+                                [
+                                    1.9583,
+                                    7.4211
+                                ],
+                                [
+                                    0.4969,
+                                    7.4062
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 5,
+                    "column_index": 1,
+                    "content": "Festplattenbaugruppe",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9583,
+                                    6.9514
+                                ],
+                                [
+                                    3.3899,
+                                    6.9514
+                                ],
+                                [
+                                    3.3899,
+                                    7.4211
+                                ],
+                                [
+                                    1.9583,
+                                    7.4211
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 5,
+                    "column_index": 2,
+                    "content": "M2×4",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3899,
+                                    6.9514
+                                ],
+                                [
+                                    4.8588,
+                                    6.9439
+                                ],
+                                [
+                                    4.8588,
+                                    7.4211
+                                ],
+                                [
+                                    3.3899,
+                                    7.4211
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 5,
+                    "column_index": 3,
+                    "content": "4",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    6.9439
+                                ],
+                                [
+                                    6.2904,
+                                    6.9514
+                                ],
+                                [
+                                    6.2904,
+                                    7.4211
+                                ],
+                                [
+                                    4.8588,
+                                    7.4211
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 5,
+                    "column_index": 4,
+                    "content": "",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2904,
+                                    6.9514
+                                ],
+                                [
+                                    7.7369,
+                                    6.9439
+                                ],
+                                [
+                                    7.7369,
+                                    7.4211
+                                ],
+                                [
+                                    6.2904,
+                                    7.4211
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 6,
+                    "column_index": 0,
+                    "content": "SSD-Laufwerk (halbe Baulänge).",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.4969,
+                                    7.4062
+                                ],
+                                [
+                                    1.9583,
+                                    7.4211
+                                ],
+                                [
+                                    1.9583,
+                                    7.8238
+                                ],
+                                [
+                                    0.4969,
+                                    7.8238
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 6,
+                    "column_index": 1,
+                    "content": "Systemplatine",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9583,
+                                    7.4211
+                                ],
+                                [
+                                    3.3899,
+                                    7.4211
+                                ],
+                                [
+                                    3.3899,
+                                    7.8238
+                                ],
+                                [
+                                    1.9583,
+                                    7.8238
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 6,
+                    "column_index": 2,
+                    "content": "M2×3",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3899,
+                                    7.4211
+                                ],
+                                [
+                                    4.8588,
+                                    7.4211
+                                ],
+                                [
+                                    4.8588,
+                                    7.8238
+                                ],
+                                [
+                                    3.3899,
+                                    7.8238
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 6,
+                    "column_index": 3,
+                    "content": "1",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    7.4211
+                                ],
+                                [
+                                    6.2904,
+                                    7.4211
+                                ],
+                                [
+                                    6.2904,
+                                    7.8238
+                                ],
+                                [
+                                    4.8588,
+                                    7.8238
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 6,
+                    "column_index": 4,
+                    "content": "",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2904,
+                                    7.4211
+                                ],
+                                [
+                                    7.7369,
+                                    7.4211
+                                ],
+                                [
+                                    7.7369,
+                                    7.8238
+                                ],
+                                [
+                                    6.2904,
+                                    7.8238
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 7,
+                    "column_index": 0,
+                    "content": "SSD-Laufwerk",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.4969,
+                                    7.8238
+                                ],
+                                [
+                                    1.9583,
+                                    7.8238
+                                ],
+                                [
+                                    1.9583,
+                                    8.2936
+                                ],
+                                [
+                                    0.4969,
+                                    8.2936
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 7,
+                    "column_index": 1,
+                    "content": "SSD-Laufwerkshalterung",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9583,
+                                    7.8238
+                                ],
+                                [
+                                    3.3899,
+                                    7.8238
+                                ],
+                                [
+                                    3.3899,
+                                    8.2936
+                                ],
+                                [
+                                    1.9583,
+                                    8.2936
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 7,
+                    "column_index": 2,
+                    "content": "M2×2",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3899,
+                                    7.8238
+                                ],
+                                [
+                                    4.8588,
+                                    7.8238
+                                ],
+                                [
+                                    4.8588,
+                                    8.2936
+                                ],
+                                [
+                                    3.3899,
+                                    8.2936
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 7,
+                    "column_index": 3,
+                    "content": "1",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    7.8238
+                                ],
+                                [
+                                    6.2904,
+                                    7.8238
+                                ],
+                                [
+                                    6.2904,
+                                    8.2936
+                                ],
+                                [
+                                    4.8588,
+                                    8.2936
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 7,
+                    "column_index": 4,
+                    "content": "",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2904,
+                                    7.8238
+                                ],
+                                [
+                                    7.7369,
+                                    7.8238
+                                ],
+                                [
+                                    7.7369,
+                                    8.2936
+                                ],
+                                [
+                                    6.2904,
+                                    8.2936
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 8,
+                    "column_index": 0,
+                    "content": "SSD-Laufwerk (volle Baulänge)",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.4969,
+                                    8.2936
+                                ],
+                                [
+                                    1.9583,
+                                    8.2936
+                                ],
+                                [
+                                    1.9583,
+                                    8.7037
+                                ],
+                                [
+                                    0.4969,
+                                    8.7037
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 8,
+                    "column_index": 1,
+                    "content": "Systemplatine",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9583,
+                                    8.2936
+                                ],
+                                [
+                                    3.3899,
+                                    8.2936
+                                ],
+                                [
+                                    3.3899,
+                                    8.7037
+                                ],
+                                [
+                                    1.9583,
+                                    8.7037
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 8,
+                    "column_index": 2,
+                    "content": "M2×3",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3899,
+                                    8.2936
+                                ],
+                                [
+                                    4.8588,
+                                    8.2936
+                                ],
+                                [
+                                    4.8588,
+                                    8.7037
+                                ],
+                                [
+                                    3.3899,
+                                    8.7037
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 8,
+                    "column_index": 3,
+                    "content": "1",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    8.2936
+                                ],
+                                [
+                                    6.2904,
+                                    8.2936
+                                ],
+                                [
+                                    6.2904,
+                                    8.7037
+                                ],
+                                [
+                                    4.8588,
+                                    8.7037
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 8,
+                    "column_index": 4,
+                    "content": "",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2904,
+                                    8.2936
+                                ],
+                                [
+                                    7.7369,
+                                    8.2936
+                                ],
+                                [
+                                    7.7369,
+                                    8.7037
+                                ],
+                                [
+                                    6.2904,
+                                    8.7037
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 9,
+                    "column_index": 0,
+                    "content": "Lautsprecher",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.4969,
+                                    8.7037
+                                ],
+                                [
+                                    1.9583,
+                                    8.7037
+                                ],
+                                [
+                                    1.9658,
+                                    9.1213
+                                ],
+                                [
+                                    0.4969,
+                                    9.1064
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 9,
+                    "column_index": 1,
+                    "content": "Handballenstützen- Baugruppe",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9583,
+                                    8.7037
+                                ],
+                                [
+                                    3.3899,
+                                    8.7037
+                                ],
+                                [
+                                    3.3899,
+                                    9.1213
+                                ],
+                                [
+                                    1.9658,
+                                    9.1213
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 9,
+                    "column_index": 2,
+                    "content": "M2×2",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3899,
+                                    8.7037
+                                ],
+                                [
+                                    4.8588,
+                                    8.7037
+                                ],
+                                [
+                                    4.8588,
+                                    9.1213
+                                ],
+                                [
+                                    3.3899,
+                                    9.1213
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 9,
+                    "column_index": 3,
+                    "content": "4",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    8.7037
+                                ],
+                                [
+                                    6.2904,
+                                    8.7037
+                                ],
+                                [
+                                    6.2978,
+                                    9.1213
+                                ],
+                                [
+                                    4.8588,
+                                    9.1213
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 9,
+                    "column_index": 4,
+                    "content": "",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2904,
+                                    8.7037
+                                ],
+                                [
+                                    7.7369,
+                                    8.7037
+                                ],
+                                [
+                                    7.7369,
+                                    9.1213
+                                ],
+                                [
+                                    6.2978,
+                                    9.1213
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 10,
+                    "column_index": 0,
+                    "content": "Lüfter",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.4969,
+                                    9.1064
+                                ],
+                                [
+                                    1.9658,
+                                    9.1213
+                                ],
+                                [
+                                    1.9658,
+                                    9.5911
+                                ],
+                                [
+                                    0.4969,
+                                    9.5911
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 10,
+                    "column_index": 1,
+                    "content": "Systemplatine",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9658,
+                                    9.1213
+                                ],
+                                [
+                                    3.3899,
+                                    9.1213
+                                ],
+                                [
+                                    3.3899,
+                                    9.5911
+                                ],
+                                [
+                                    1.9658,
+                                    9.5911
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 10,
+                    "column_index": 2,
+                    "content": "M2×4",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3899,
+                                    9.1213
+                                ],
+                                [
+                                    4.8588,
+                                    9.1213
+                                ],
+                                [
+                                    4.8588,
+                                    9.5911
+                                ],
+                                [
+                                    3.3899,
+                                    9.5911
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 10,
+                    "column_index": 3,
+                    "content": "4",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    9.1213
+                                ],
+                                [
+                                    6.2978,
+                                    9.1213
+                                ],
+                                [
+                                    6.2978,
+                                    9.5911
+                                ],
+                                [
+                                    4.8588,
+                                    9.5911
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 10,
+                    "column_index": 4,
+                    "content": "",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2978,
+                                    9.1213
+                                ],
+                                [
+                                    7.7369,
+                                    9.1213
+                                ],
+                                [
+                                    7.7369,
+                                    9.5911
+                                ],
+                                [
+                                    6.2978,
+                                    9.5911
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 11,
+                    "column_index": 0,
+                    "content": "Kühlkörperbaugruppe",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.4969,
+                                    9.5911
+                                ],
+                                [
+                                    1.9658,
+                                    9.5911
+                                ],
+                                [
+                                    1.9658,
+                                    10.0012
+                                ],
+                                [
+                                    0.4894,
+                                    9.9863
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 11,
+                    "column_index": 1,
+                    "content": "Systemplatine",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9658,
+                                    9.5911
+                                ],
+                                [
+                                    3.3899,
+                                    9.5911
+                                ],
+                                [
+                                    3.3899,
+                                    10.0012
+                                ],
+                                [
+                                    1.9658,
+                                    10.0012
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 11,
+                    "column_index": 2,
+                    "content": "M2×3",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3899,
+                                    9.5911
+                                ],
+                                [
+                                    4.8588,
+                                    9.5911
+                                ],
+                                [
+                                    4.8588,
+                                    9.9938
+                                ],
+                                [
+                                    3.3899,
+                                    10.0012
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 11,
+                    "column_index": 3,
+                    "content": "5, 4",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    9.5911
+                                ],
+                                [
+                                    6.2978,
+                                    9.5911
+                                ],
+                                [
+                                    6.2978,
+                                    10.0012
+                                ],
+                                [
+                                    4.8588,
+                                    9.9938
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 11,
+                    "column_index": 4,
+                    "content": "",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2978,
+                                    9.5911
+                                ],
+                                [
+                                    7.7369,
+                                    9.5911
+                                ],
+                                [
+                                    7.7369,
+                                    10.0012
+                                ],
+                                [
+                                    6.2978,
+                                    10.0012
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 12,
+                    "column_index": 0,
+                    "content": "Bildschirmkabelhalterung",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    0.4894,
+                                    9.9863
+                                ],
+                                [
+                                    1.9658,
+                                    10.0012
+                                ],
+                                [
+                                    1.9658,
+                                    10.3219
+                                ],
+                                [
+                                    0.4894,
+                                    10.3293
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 12,
+                    "column_index": 1,
+                    "content": "Systemplatine",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    1.9658,
+                                    10.0012
+                                ],
+                                [
+                                    3.3899,
+                                    10.0012
+                                ],
+                                [
+                                    3.3899,
+                                    10.3219
+                                ],
+                                [
+                                    1.9658,
+                                    10.3219
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 12,
+                    "column_index": 2,
+                    "content": "M2×2",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    3.3899,
+                                    10.0012
+                                ],
+                                [
+                                    4.8588,
+                                    9.9938
+                                ],
+                                [
+                                    4.8588,
+                                    10.3219
+                                ],
+                                [
+                                    3.3899,
+                                    10.3219
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 12,
+                    "column_index": 3,
+                    "content": "1 1",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    4.8588,
+                                    9.9938
+                                ],
+                                [
+                                    6.2978,
+                                    10.0012
+                                ],
+                                [
+                                    6.2978,
+                                    10.3219
+                                ],
+                                [
+                                    4.8588,
+                                    10.3219
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "row_index": 12,
+                    "column_index": 4,
+                    "content": "",
+                    "bounding_regions": [
+                        {
+                            "page_number": 1,
+                            "polygon": [
+                                [
+                                    6.2978,
+                                    10.0012
+                                ],
+                                [
+                                    7.7369,
+                                    10.0012
+                                ],
+                                [
+                                    7.7369,
+                                    10.3219
+                                ],
+                                [
+                                    6.2978,
+                                    10.3219
+                                ]
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
