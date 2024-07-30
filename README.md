@@ -13,7 +13,7 @@ For this project mainly [Azure AIs](https://azure.microsoft.com/de-de/products/a
 - `requirements.txt`: List of the required Python packages.
 <br>
 The resulting workflow within promptflow has the following structure:
-![Workflow in promptflow](pictures/promptflow.png)
+![Workflow in promptflow](./pictures/promptflow.png)
 <br>
 Make sure that all .env variables are set correctly (both in a separate `credentials.env` and within the `flow.dag.yaml` and the `pdf_indexing.py`)
 
