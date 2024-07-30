@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <th></th>
-    <th></th>
+    <th align="left">Metric</th>
     <th>Variant 0</th>
     <th>Variant 1</th>
     <th>Variant 2</th>
@@ -54,7 +54,7 @@
 </table>
 
 
-<br><br>
+<br>
 
 
 #### <ins>Results for GPT-4o:</ins>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <th></th>
-    <th></th>
+    <th align="left">Metric</th>
     <th>Variant 0</th>
     <th>Variant 1</th>
     <th>Variant 2</th>
