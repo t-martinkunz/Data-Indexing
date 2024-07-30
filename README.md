@@ -14,7 +14,7 @@ For this project mainly [Azure AIs](https://azure.microsoft.com/de-de/products/a
 <br>
 The resulting workflow within promptflow has the following structure:
 <br>
-![Workflow in promptflow](./pictures/promptflow.png)
+![promptflow](images/promptflow.png)
 <br>
 Make sure that all .env variables are set correctly (both in a separate `credentials.env` and within the `flow.dag.yaml` and the `pdf_indexing.py`)
 
