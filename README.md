@@ -12,10 +12,6 @@ For this project mainly [Azure AIs](https://azure.microsoft.com/de-de/products/a
 - `pdf_indexing.py`: Python script for indexing and extracting data from PDF documents within promptflow.
 - `requirements.txt`: List of the required Python packages.
 <br>
-The resulting workflow within promptflow has the following structure:
-<br>
-![promptflow](images/promptflow.png)
-<br>
 Make sure that all .env variables are set correctly (both in a separate `credentials.env` and within the `flow.dag.yaml` and the `pdf_indexing.py`)
 
 ### Results
