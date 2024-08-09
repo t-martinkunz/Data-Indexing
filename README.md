@@ -8,10 +8,10 @@ For this project mainly [Azure AIs](https://azure.microsoft.com/de-de/products/a
 - `pdf_indexing.py`: Python script for indexing and extracting data from PDF documents within promptflow.
 - `data-indexing.ipynb`: Jupyter notebook for data indexing and initial analyses.
 - `flow.dag.yaml`: Defines the workflow and the various nodes of the RAG flow within promptflow.
-- `requirements.txt`: List of the required Python packages.<br><br>
+- `requirements.txt`: List of the required Python packages.
 - `./example_pdfs`: Contains freely accessible, technical PDFs that were used for the evaluation.
 - `./example_pdfs/question-answers.jsonl`: Questions and answers which were used to evaluate our promptflow pipeline
-- `./results`: Contains the results of `data-indexing.ipynb`.
+- `./results`: Contains the results of `data-indexing.ipynb`.<br><br>
 
 The resulting workflow within promptflow has the following structure:<br><br>
 ![Workflow in promptflow](images/promptflow.png "Workflow")
