@@ -5,12 +5,13 @@ This project evaluates the latest GPT models and different indexing methods for 
 For this project mainly [Azure AIs](https://azure.microsoft.com/de-de/products/ai-studio/) promptflow was used.<br><br>
 
 ### <ins>Project Structure</ins>
-- `./example_pdfs`: Contains freely accessible, technical PDFs that were used for the evaluation.
-- `./results`: Contains the results of `data-indexing.ipynb`.
+- `pdf_indexing.py`: Python script for indexing and extracting data from PDF documents within promptflow.
 - `data-indexing.ipynb`: Jupyter notebook for data indexing and initial analyses.
 - `flow.dag.yaml`: Defines the workflow and the various nodes of the RAG flow within promptflow.
-- `pdf_indexing.py`: Python script for indexing and extracting data from PDF documents within promptflow.
 - `requirements.txt`: List of the required Python packages.<br><br>
+- `./example_pdfs`: Contains freely accessible, technical PDFs that were used for the evaluation.
+- `./example_pdfs/question-answers.jsonl`: Questions and answers which were used to evaluate our promptflow pipeline
+- `./results`: Contains the results of `data-indexing.ipynb`.
 
 The resulting workflow within promptflow has the following structure:<br><br>
 ![Workflow in promptflow](images/promptflow.png "Workflow")

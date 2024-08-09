@@ -3,8 +3,15 @@ import subprocess
 import sys
 
 def install_packages():
+    """
+    Install required packages for the workflow.
+    This function installs 'azure-ai-formrecognizer' and 'python-dotenv' using pip.
+
+    @return: None
+    """
     subprocess.check_call([sys.executable, "-m", "pip", "install", "azure-ai-formrecognizer==3.2.0", "python-dotenv"])
 
+# Install the necessary packages
 install_packages()
 
 import json
@@ -13,19 +20,36 @@ from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
 import os
 
+# Replace with your Azure Form Recognizer endpoint and key
 endpoint = "YOUR_ENDPOINT"
 key = "YOUR_KEY"
 
-
 def extract_text(result: Any) -> list:
+    """
+    Extracts text content from the analyzed document.
+
+    @param result: The result object returned by the Form Recognizer analysis.
+    @type result: Any
+
+    @return: A list of strings where each string represents a line of text in the document.
+    @rtype: list
+    """
     texts = []
     for page in result.pages:
         for line in page.lines:
             texts.append(line.content)
     return texts
 
-
 def extract_structure(result: Any) -> list:
+    """
+    Extracts structural information from the analyzed document, such as page dimensions and line details.
+
+    @param result: The result object returned by the Form Recognizer analysis.
+    @type result: Any
+
+    @return: A list of dictionaries, each representing the structure of a page in the document.
+    @rtype: list
+    """
     structures = []
     for page in result.pages:
         structure_data = {
@@ -45,8 +69,16 @@ def extract_structure(result: Any) -> list:
         structures.append(structure_data)
     return structures
 
-
 def extract_tables(result: Any) -> list:
+    """
+    Extracts table data from the analyzed document, including cell content and position.
+
+    @param result: The result object returned by the Form Recognizer analysis.
+    @type result: Any
+
+    @return: A list of dictionaries, each representing a table found in the document.
+    @rtype: list
+    """
     tables = []
     for table_idx, table in enumerate(result.tables):
         table_data = {
@@ -66,23 +98,32 @@ def extract_tables(result: Any) -> list:
         tables.append(table_data)
     return tables
 
-
-# Define the tool function
+# Define the tool function for promptflow workflow
 @tool
 def pdf_indexing(input_url: str) -> Dict[str, Any]:
-    # Initialize DocumentAnalysisClient
+    """
+    Analyzes a PDF document from a given URL and extracts text, structure, and table data.
+    The extracted data is then structured and returned in a JSON format suitable for indexing.
+
+    @param input_url: The URL of the PDF document to analyze.
+    @type input_url: str
+
+    @return: A dictionary containing the structured data extracted from the PDF.
+    @rtype: Dict[str, Any]
+    """
+    # Initialize the DocumentAnalysisClient with Azure Form Recognizer credentials
     document_analysis_client = DocumentAnalysisClient(endpoint=endpoint, credential=AzureKeyCredential(key))
 
-    # Start document analysis
+    # Start the document analysis process for the specified document URL
     poller = document_analysis_client.begin_analyze_document_from_url("prebuilt-layout", input_url)
     result = poller.result()
 
-    # Extract and structure data
+    # Extract text, structure and table data from the analysis result
     text_data = extract_text(result)
     structure_data = extract_structure(result)
     table_data = extract_tables(result)
 
-    # Combine all extracted data into one JSON
+    # Combine all extracted data into one JSON structure
     document_data = {
         "embeddings": {
             "api_base": "YOUR_API_BASE",
@@ -123,7 +164,7 @@ def pdf_indexing(input_url: str) -> Dict[str, Any]:
           }
     }
 
-    # Convert document_data to JSON string
+    # Convert the combined data to a JSON string
     document_data_json = json.dumps(document_data)
 
     return {
